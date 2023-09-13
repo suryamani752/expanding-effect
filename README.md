@@ -1,8 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3>want to see this project live Click here 👉 <a href="https://expanding-effect-umber.vercel.app/">expanding-effect</a></h3>
+<h3>Please have a look at my portfolio Click here 👉 <a href="https://portfolio-suryamani-kumar-byj5.onrender.com/">Portfolio</a></h3>
 
-Currently, two official plugins are available:
+<h2>Step to Run this project on local system</h2>
+<p>1st : clone this project</p>
+<p>2nd : open in code editor</p>
+<p>3rd : In the terminal of code editor type this command => <b> npm i or npm install </b></p>
+<p>4th : In the terminal of code editor type this command => <b> npm run dev</b></p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h4>####### THANK YOU 😊 #######</h4>
