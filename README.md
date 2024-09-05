@@ -1,7 +1,6 @@
 # React + Vite
 
 <h3>want to see this project live Click here 👉 <a href="https://expanding-effect-umber.vercel.app/">expanding-effect</a></h3>
-<h3>Please have a look at my portfolio Click here 👉 <a href="https://portfolio-suryamani-kumar-byj5.onrender.com/">Portfolio</a></h3>
 
 <h2>Step to Run this project on local system</h2>
 <p>1st : clone this project</p>
